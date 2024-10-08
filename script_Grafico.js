@@ -7,7 +7,7 @@
 
 
 // Inserisci url del file DieciMinuti
-const urlGrafico = `https://docs.google.com/spreadsheets/d/1-gzNU3Pt0WW3cYf6nALyunLn8STXTjHS/gviz/tq?tqx=responseHandler:myCallback`;
+const urlGrafico = `https://docs.google.com/spreadsheets/d/108OG9zSUom4rZskJKeYQN6umFxzzBiPB/gviz/tq?tqx=responseHandler:myCallback`;
 
 
 //ricorda che i link sopra non sono semplicemente copiati dal file google drive, ma sono modificati: la parte finale andrà modificata e sostituita da /gviz/tq... eccetera
